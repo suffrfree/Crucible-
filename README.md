@@ -1,2 +1,2 @@
-# install_stablediffusion_AMD
-Having trouble installing stable diffusion on my pc that has an AMD graphics card
+# create social media web app called crucible
+
