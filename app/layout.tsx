@@ -1,3 +1,5 @@
+import type { ReactNode } from "react";
+
 import "./globals.css";
 
 export const metadata = {
@@ -8,7 +10,7 @@ export const metadata = {
 export default function RootLayout({
   children,
 }: {
-  children: React.ReactNode;
+  children: ReactNode;
 }) {
   return (
     <html lang="en">
